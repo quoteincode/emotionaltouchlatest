@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.emonationaltouchlatest"
+    namespace "com.emotionaltouchlatest"
     defaultConfig {
-        applicationId "com.emonationaltouchlatest"
+        applicationId "com.emotionaltouchlatest"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

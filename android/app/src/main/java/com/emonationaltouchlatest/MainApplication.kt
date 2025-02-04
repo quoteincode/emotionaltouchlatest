@@ -1,4 +1,4 @@
-package com.emonationaltouchlatest
+package com.emotionaltouchlatest
 
 import android.app.Application
 import com.facebook.react.PackageList
