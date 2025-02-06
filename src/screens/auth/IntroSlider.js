@@ -6,26 +6,26 @@ import {
   responsiveWidth as wp,
   responsiveFontSize as fs,
 } from 'react-native-responsive-dimensions';
-import color from './src/assets/color';
+import color from '../../assets/color';
 
 const slides = [
   {
     id: 1,
     title: 'Find Your Missing Piece',
     description: 'You can connect with listeners to share your feelings.',
-    image: require('./src/assets/images/onboarding1.png'),
+    image: require('../../assets/images/onboarding1.png'),
   },
   {
     id: 2,
     title: '1914 translation by H. Rackham',
     description: 'You can connect with listeners to share your feelings.',
-    image: require('./src/assets/images/onboarding1.png'),
+    image: require('../../assets/images/onboarding1.png'),
   },
   {
     id: 3,
     title: 'Talk to your Problem Listener',
     description: 'You can connect with listeners to share your feelings.',
-    image: require('./src/assets/images/onboarding3.png'),
+    image: require('../../assets/images/onboarding3.png'),
   },
 ];
 
