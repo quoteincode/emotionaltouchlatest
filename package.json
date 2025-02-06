@@ -10,11 +10,23 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/drawer": "^7.1.1",
+    "@react-navigation/native": "^7.0.14",
+    "@reduxjs/toolkit": "^2.5.1",
+    "axios": "^1.7.9",
+    "gesture-handler": "^0.0.1",
     "i18next": "^24.2.2",
     "react": "18.3.1",
     "react-i18next": "^15.4.0",
     "react-native": "0.77.0",
-    "react-native-localize": "^3.4.1"
+    "react-native-element-dropdown": "^2.12.4",
+    "react-native-localize": "^3.4.1",
+    "react-native-paper": "^5.13.1",
+    "react-native-responsive-dimensions": "^3.1.1",
+    "react-native-screens": "^4.6.0",
+    "react-native-swiper": "^1.6.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-redux": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
